@@ -1,3 +1,10 @@
+# Indentifying Information:
+1. Name: Lucas Gaudet
+2. Student ID: 2377818
+3. Email: lgaudet@chapman.edu
+4. Class: CENG/CPSC-298-01
+5. Assignment: cars
+
 # Application Purpose
 
 This repo will contain a bash script named “cars.sh” that will help a user maintain an inventory of old cars.  
@@ -21,4 +28,15 @@ The program will display the lines of the My_old_cars file, sorted by year
 
 ### If the user chooses to Quit  
 The program will display a “Goodbye” message and exit.
+
+# Files
+1. cars.sh
+2. My_old_cars
+
+# Known Errors
+None that are known
+
+# References
+Class slides
+
 
